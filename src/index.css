@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: end;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: black;
+  text-align: center;
+}
+
+th {
+  color: rgb(253, 253, 253);
+  background-color: rgb(165, 100, 15);
+  font-family: sans-serif;
+  border-radius: 2cm;
+}
+
+tbody {
+  color: rgb(255, 255, 255);
+}
+
+div {
+  color: rgb(56, 98, 212);
+}
+
+h1 {
+  font-size: 200%;
+  line-height: 1.1;
+  color: rgb(255, 255, 255);
+  background-color: rgb(165, 100, 15);
+  padding: 1cm;
+  border-radius: 4cm;
+}
+
